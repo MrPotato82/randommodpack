@@ -97,10 +97,6 @@ file = "mods/ferritecore-7.0.2-neoforge.jar"
 hash = "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539"
 
 [[files]]
-file = "mods/geckolib-neoforge-1.21.1-4.8.2 (1).jar"
-hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
-
-[[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.8.2.jar"
 hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
 
