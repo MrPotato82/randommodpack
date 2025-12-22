@@ -1,2 +1,161 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+hash = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+
+[[files]]
+file = "mods/Cucumber-1.21.1-8.0.15.jar"
+hash = "6894b0ef2d6b5f4bb59b552dc34d0fe6b5ec52e4787717eef87b82afc462f3c7"
+
+[[files]]
+file = "mods/ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar"
+hash = "ab57fe7c34851aea7493ebc0b2d39a6c430c50607a69765719002d61129f6a85"
+
+[[files]]
+file = "mods/Jade-1.21.1-NeoForge-15.10.3.jar"
+hash = "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418"
+
+[[files]]
+file = "mods/MysticalAgradditions-1.21.1-8.0.11.jar"
+hash = "5561ebf1ce97a991eea223bd29124c1eea4f54161369cd4842f939b0ec14cf3e"
+
+[[files]]
+file = "mods/MysticalAgriculture-1.21.1-8.0.21.jar"
+hash = "a79bc0e2759d483c7f810501f7e4122c162bfa4a3c09a3fb432a0e6af54af6d8"
+
+[[files]]
+file = "mods/MysticalAutomation-1.21.1-1.0.3.jar"
+hash = "5a06a7bb9a338dcf1440c4ff718c7a66db9ccbc5d0c0025bdd4dcd67f125a0a1"
+
+[[files]]
+file = "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
+
+[[files]]
+file = "mods/ae2importexportcard-1.21.1-1.4.1.jar"
+hash = "d895c40570d4c6d6d5d6d10e5664f0dd06e52476904b0bdd376480b02cdf7e73"
+
+[[files]]
+file = "mods/ae2qolrecipes-neoforge-1.21.x-1.3.0.jar"
+hash = "9aedb9090a19d4b15c258ae13a680117980d344927b223c53f8670dfb2d1fa6f"
+
+[[files]]
+file = "mods/ae2wtlib-19.3.0.jar"
+hash = "0937b9791112efb534d3e0458e63beee3af2490b84751583cebf14c500c53e5c"
+
+[[files]]
+file = "mods/appliedenergistics2-19.2.17.jar"
+hash = "460d779a0609b81409907d9956de8f6f70a1b0912257e3e5c3c7e75ac9630e95"
+
+[[files]]
+file = "mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
+
+[[files]]
+file = "mods/ars_nouveau-1.21.1-5.10.6.jar"
+hash = "d1e2b3cab83a1fd44bf14a512ed73f3a505922b2d63fdfd46c5da45d3127910e"
+
+[[files]]
+file = "mods/ars_ocultas-1.21.1-2.2.0.jar"
+hash = "23157ed55b2dfaeea7ced99815d2617a28848856f97a8eb68bd7c02aaab77e8a"
+
+[[files]]
+file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
+hash = "81b0f29d6c0929021065a04476fa5e79a87a006e18654f91d501074151074e14"
+
+[[files]]
+file = "mods/create-1.21.1-6.0.8.jar"
+hash = "5f2d593a9cee2403f0c5bde06c59df8378f57e5d2314fed9fffd32d0281a6de1"
+
+[[files]]
+file = "mods/create-renewable-brass-1.0.2.jar"
+hash = "1503bf153254f0763b60a2458c41d6c72feb32a36c8e63c6aface3c80de48c1b"
+
+[[files]]
+file = "mods/create-renewable-diamonds-1.0.1.jar"
+hash = "9242fb22f3e9d68a1a44c874d0fd9d2e939fcc8342ead4b32007801e33d92a74"
+
+[[files]]
+file = "mods/create-renewable-netherite-2.0.1.jar"
+hash = "2539b4ee086ac448e00217eb693dca35635d6c5f0e587f79b16bf24ea6a1a2d0"
+
+[[files]]
+file = "mods/create-stones-2.0.1.jar"
+hash = "05209f9b3b59ff678ae3a5f1bbe8ae0304760c951560897a803bc6bfd44f6114"
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1 (1).jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+
+[[files]]
+file = "mods/entityculling-neoforge-1.9.4-mc1.21.1.jar"
+hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
+
+[[files]]
+file = "mods/ferritecore-7.0.2-neoforge.jar"
+hash = "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539"
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.8.2 (1).jar"
+hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
+
+[[files]]
+file = "mods/geckolib-neoforge-1.21.1-4.8.2.jar"
+hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
+
+[[files]]
+file = "mods/guideme-21.1.15.jar"
+hash = "0901f237e6711af4194512b73410d4f6e8abb7b0bf51e33b5ee98a4f9a515be7"
+
+[[files]]
+file = "mods/jei-1.21.1-neoforge-19.27.0.335.jar"
+hash = "e28b15e1a806d2dc5d267f7662f335c508054ed610fe2766ffb09f27ea463fba"
+
+[[files]]
+file = "mods/matc-1.7.1.jar"
+hash = "d54dd6ee1925c0103bca13842a229b0a7851c4658fb2f0cd3c8b46fb9dd532a2"
+
+[[files]]
+file = "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar"
+hash = "2dbcf6cd837fca938323dd55114e6c515a4bb1b644a746aad504dd8d43bb0b6d"
+
+[[files]]
+file = "mods/modonomicon-1.21.1-neoforge-1.117.2.jar"
+hash = "58392dce066ba2f072f272688597bcefd62064c8904dc26813bc69044be24e6c"
+
+[[files]]
+file = "mods/occultengineering-1.21.1-0.11.0.jar"
+hash = "e4891e4d81e37c00830e3d7efd0254c92f196b152dd441de2567969128705413"
+
+[[files]]
+file = "mods/occultism-1.21.1-neoforge-1.199.0.jar"
+hash = "3d520480842f6c3d3ef1b64e45572d47199ade3948d7e6d52e46d8f58fdadef9"
+
+[[files]]
+file = "mods/pylons-1.21.1-5.3.0.jar"
+hash = "0cd1602c98096e3d2f4ecfcf5de5df015fbd13755d32693211ebeec51c89e704"
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.21.1-3.25.19.1465.jar"
+hash = "2a41cc4f973dbd1f29cfc5dea1cd70fd96599d5ae636657f0e701b1f32f9e297"
+
+[[files]]
+file = "mods/sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar"
+hash = "82013eb16e2b1ab32c87f79b5e258d42d451f42e0cfb6ee9297c21c1296daeb5"
+
+[[files]]
+file = "mods/sophisticatedcore-1.21.1-1.3.96.1315.jar"
+hash = "501eb6396a56a09d910ccd565d8e41cb16a640b33c9bfc13428529ad28ef7407"
+
+[[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.5.17.1398.jar"
+hash = "97467c0d62a6d4d454e890510dde4eb6d71293ad99b6eb60ef0d47f91e7cc1e4"
+
+[[files]]
+file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar"
+hash = "dda88201809a4a5b8f6c5291afbc86f1aab2fbdfe7b576d49c48ae594c5b87dd"
+
+[[files]]
+file = "mods/waystones-neoforge-1.21.1-21.1.25.jar"
+hash = "45533f2fae2991e7b86c02f512e07b0a7c0abcf17ecd54de87e1e5b8b9353e3b"
