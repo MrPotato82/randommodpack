@@ -83,6 +83,11 @@ file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "81b0f29d6c0929021065a04476fa5e79a87a006e18654f91d501074151074e14"
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "80fc5d7af0f1e2ec6935f15d4c98c6958db494505c3b6036193ee3d13f7643ad"
+metafile = true
+
+[[files]]
 file = "mods/create-1.21.1-6.0.8.jar"
 hash = "5f2d593a9cee2403f0c5bde06c59df8378f57e5d2314fed9fffd32d0281a6de1"
 
@@ -143,6 +148,11 @@ hash = "2dbcf6cd837fca938323dd55114e6c515a4bb1b644a746aad504dd8d43bb0b6d"
 [[files]]
 file = "mods/modonomicon-1.21.1-neoforge-1.117.2.jar"
 hash = "58392dce066ba2f072f272688597bcefd62064c8904dc26813bc69044be24e6c"
+
+[[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "530b8fd2c7931ca790d3c81e5b8bb0d6ca8f8a117d028507cb0f9c3d082ff7cb"
+metafile = true
 
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar"
