@@ -29,6 +29,10 @@ file = "mods/MysticalAutomation-1.21.1-1.0.3.jar"
 hash = "5a06a7bb9a338dcf1440c4ff718c7a66db9ccbc5d0c0025bdd4dcd67f125a0a1"
 
 [[files]]
+file = "mods/Patchouli-1.21.1-92-NEOFORGE.jar"
+hash = "579f23933f1db9569f35f7770b9f2b0b6592a9389d7b3411272487bf5c77c98d"
+
+[[files]]
 file = "mods/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
 hash = "68036561cc5511766d54cc0deabc3fc3a5e68f9e3db2478f2574ec82b494374b"
 
