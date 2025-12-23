@@ -153,6 +153,11 @@ file = "mods/occultism-1.21.1-neoforge-1.199.0.jar"
 hash = "3d520480842f6c3d3ef1b64e45572d47199ade3948d7e6d52e46d8f58fdadef9"
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
+metafile = true
+
+[[files]]
 file = "mods/pylons-1.21.1-5.3.0.jar"
 hash = "0cd1602c98096e3d2f4ecfcf5de5df015fbd13755d32693211ebeec51c89e704"
 
