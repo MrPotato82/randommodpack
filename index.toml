@@ -66,6 +66,11 @@ hash = "bc4d8011e6aa97ba551883fee7280190b98e5fdea5ef4876df8d2486468b90fb"
 metafile = true
 
 [[files]]
+file = "mods/ars-numerichud.pw.toml"
+hash = "5d2eb89720ab0e767cd03b8cd943f08eb143996baf23dbc48ab75b0f02407ca2"
+metafile = true
+
+[[files]]
 file = "mods/ars_nouveau-1.21.1-5.10.6.jar"
 hash = "d1e2b3cab83a1fd44bf14a512ed73f3a505922b2d63fdfd46c5da45d3127910e"
 
