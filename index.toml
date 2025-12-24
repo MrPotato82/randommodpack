@@ -112,6 +112,11 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/disccord.pw.toml"
+hash = "e2c31e147849a3c04fc5c5c313a22ebd1a644cb93e44045af7c605dec31dc301"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-neoforge-1.9.4-mc1.21.1.jar"
 hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
 
