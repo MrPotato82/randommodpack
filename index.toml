@@ -165,6 +165,11 @@ hash = "1ad114e7a43430af02001edf88ade0a43e21ed86dbf3f5a027a657197eb18c4a"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "84046f85175b75f7a2f76d86a044c9913454d7d167f7ab87063f3823bb99e9f2"
+metafile = true
+
+[[files]]
 file = "mods/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar"
 hash = "1f700d366d1d642ca65560bd7a47cd23072551c450ce0e9352ea55f44657b9aa"
 
