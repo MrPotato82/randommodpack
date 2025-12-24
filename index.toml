@@ -133,6 +133,11 @@ file = "mods/create-stones-2.0.1.jar"
 hash = "05209f9b3b59ff678ae3a5f1bbe8ae0304760c951560897a803bc6bfd44f6114"
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "90bf9f547b4c3c76873d51f13c355f769e5043691f56d3a8744bad10ab0fd70c"
+metafile = true
+
+[[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
@@ -165,6 +170,11 @@ hash = "e28b15e1a806d2dc5d267f7662f335c508054ed610fe2766ffb09f27ea463fba"
 [[files]]
 file = "mods/matc-1.7.1.jar"
 hash = "d54dd6ee1925c0103bca13842a229b0a7851c4658fb2f0cd3c8b46fb9dd532a2"
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
+metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
