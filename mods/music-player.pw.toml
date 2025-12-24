@@ -1,0 +1,13 @@
+name = "Music Player"
+filename = "music_player-neoforge-1.21.1-2.7.1.351.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a9540f0786a30673d4621bf9f46bd6ebeda3ea3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7195698
+project-id = 294574
