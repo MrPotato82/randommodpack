@@ -172,6 +172,11 @@ file = "mods/matc-1.7.1.jar"
 hash = "d54dd6ee1925c0103bca13842a229b0a7851c4658fb2f0cd3c8b46fb9dd532a2"
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "a04147d9f39521c236191f913ac7fd8f177cc3ae073d5cb01be52bcede9acab2"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "2fee21be9505fb8a1a199aa5dc7a5d6a0687e86c08951fe396afd5dcfdb0ac45"
 metafile = true
