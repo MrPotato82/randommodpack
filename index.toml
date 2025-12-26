@@ -108,6 +108,16 @@ file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "81b0f29d6c0929021065a04476fa5e79a87a006e18654f91d501074151074e14"
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "7904c140247e0d8a87231cf4d36718fc018e0f851dbec2517b673acdc25547df"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "2bbc57f2edb0c4045b2b46f0126e109d9a8cf72153cd7084cb78f6e3311adb38"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "80fc5d7af0f1e2ec6935f15d4c98c6958db494505c3b6036193ee3d13f7643ad"
 metafile = true
@@ -144,6 +154,11 @@ hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 [[files]]
 file = "mods/disccord.pw.toml"
 hash = "e2c31e147849a3c04fc5c5c313a22ebd1a644cb93e44045af7c605dec31dc301"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "3ce68510c71de8943afde23f9b511947c18c34d13fe3fb455384971266d4e358"
 metafile = true
 
 [[files]]
