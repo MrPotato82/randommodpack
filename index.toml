@@ -172,6 +172,11 @@ file = "mods/matc-1.7.1.jar"
 hash = "d54dd6ee1925c0103bca13842a229b0a7851c4658fb2f0cd3c8b46fb9dd532a2"
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "b9a0690a13cd849af6fe942cf34e5c44c4e5ac53c5f0b3bc986070ecb7f266b3"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "a04147d9f39521c236191f913ac7fd8f177cc3ae073d5cb01be52bcede9acab2"
 metafile = true
@@ -234,6 +239,16 @@ metafile = true
 [[files]]
 file = "mods/pylons-1.21.1-5.3.0.jar"
 hash = "0cd1602c98096e3d2f4ecfcf5de5df015fbd13755d32693211ebeec51c89e704"
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "71f638c4d9efeaca22061f5e5690e40710284928b836ec936ba8a375afa8dff1"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "11a108752d61216d4b57aa13a16fa82319f711415bc2c94c76c2212bfc9c8d72"
+metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
