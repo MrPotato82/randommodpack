@@ -1,0 +1,13 @@
+name = "Create: Double Ores"
+filename = "create_ore_doubling-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5dc8c0235f884923d11941b084d961de65e18e53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6957949
+project-id = 1340156

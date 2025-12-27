@@ -127,6 +127,16 @@ file = "mods/create-1.21.1-6.0.8.jar"
 hash = "5f2d593a9cee2403f0c5bde06c59df8378f57e5d2314fed9fffd32d0281a6de1"
 
 [[files]]
+file = "mods/create-double-ores.pw.toml"
+hash = "bb75220cd2c31b477d0674a699d17640ab7260b9f81e99c126c6be9fdc348e3b"
+metafile = true
+
+[[files]]
+file = "mods/create-more-features.pw.toml"
+hash = "50e08591dc0dc554f7f4502c61952fcae69cbc187587447861a6f72bc470bbe6"
+metafile = true
+
+[[files]]
 file = "mods/create-renewable-brass-1.0.2.jar"
 hash = "1503bf153254f0763b60a2458c41d6c72feb32a36c8e63c6aface3c80de48c1b"
 
@@ -137,6 +147,11 @@ hash = "9242fb22f3e9d68a1a44c874d0fd9d2e939fcc8342ead4b32007801e33d92a74"
 [[files]]
 file = "mods/create-renewable-netherite-2.0.1.jar"
 hash = "2539b4ee086ac448e00217eb693dca35635d6c5f0e587f79b16bf24ea6a1a2d0"
+
+[[files]]
+file = "mods/create-simple-ore-doubling.pw.toml"
+hash = "1e5a672638ad1be5f17ff89476d8734cbc5e7e2c6cb0a1e9a48012d5ee3eb837"
+metafile = true
 
 [[files]]
 file = "mods/create-stones-2.0.1.jar"
