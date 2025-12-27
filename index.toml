@@ -157,11 +157,6 @@ hash = "e2c31e147849a3c04fc5c5c313a22ebd1a644cb93e44045af7c605dec31dc301"
 metafile = true
 
 [[files]]
-file = "mods/draconic-evolution.pw.toml"
-hash = "3ce68510c71de8943afde23f9b511947c18c34d13fe3fb455384971266d4e358"
-metafile = true
-
-[[files]]
 file = "mods/entityculling-neoforge-1.9.4-mc1.21.1.jar"
 hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
 
