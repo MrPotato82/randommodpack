@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6614ee56bd8eeae972736f605434c394f929a6874c16d9254e83dcd627a1a6b3"
+hash = "5a4a0576a1ae05ed6bbf110be1eaff7736815f2746e1f50c14cc87d6a1f566d1"
 metafile = true
 
 [[files]]
@@ -309,6 +309,11 @@ hash = "97467c0d62a6d4d454e890510dde4eb6d71293ad99b6eb60ef0d47f91e7cc1e4"
 [[files]]
 file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar"
 hash = "dda88201809a4a5b8f6c5291afbc86f1aab2fbdfe7b576d49c48ae594c5b87dd"
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "3f85bdcbadc5f62a907ea29eec21a7cfcfbe748f348d3ef0db44c3f156dc2d3a"
+metafile = true
 
 [[files]]
 file = "mods/u-team-core.pw.toml"
