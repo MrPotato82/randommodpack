@@ -1,0 +1,13 @@
+name = "Infinite Lava"
+filename = "InfiniteLava NeoForge 1.21.1 1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b7bf3ed3c21e888dfde2f16a7588a9e070c8f2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5990420
+project-id = 626699
