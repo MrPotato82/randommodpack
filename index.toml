@@ -108,6 +108,11 @@ file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "81b0f29d6c0929021065a04476fa5e79a87a006e18654f91d501074151074e14"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "e587e79637fbc8dc23f29d51e2c4a685a3bcfbdb28b24452620dedbab8e7368c"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "7904c140247e0d8a87231cf4d36718fc018e0f851dbec2517b673acdc25547df"
 metafile = true
@@ -184,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-neoforge-1.9.4-mc1.21.1.jar"
 hash = "c30406bd4b5aa7416f0889b69ffcd6cd4defed6ef2055254f8b5a9d1ae9ca223"
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "fab43432c8e0a7b9297c604db2503dcaeb60e7dc879abc6b7f8deca6d934a735"
+metafile = true
 
 [[files]]
 file = "mods/ferritecore-7.0.2-neoforge.jar"
@@ -284,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/pylons-1.21.1-5.3.0.jar"
 hash = "0cd1602c98096e3d2f4ecfcf5de5df015fbd13755d32693211ebeec51c89e704"
+
+[[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "457f7fdf4bea46a68c6eaf131c42c7ad6d9755ac361f0de016a80473ad7c3576"
+metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
