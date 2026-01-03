@@ -123,6 +123,11 @@ hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "2bbc57f2edb0c4045b2b46f0126e109d9a8cf72153cd7084cb78f6e3311adb38"
 metafile = true
@@ -209,8 +214,18 @@ hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "5bc0953394cdd5a21d9f9c5a89dfa62ff84e43fc6a19fc5afdb7834e152386b9"
+metafile = true
+
+[[files]]
 file = "mods/hole-filler-mod.pw.toml"
 hash = "d39019781c7690cbf7f8787d66d0c650a9234cf36108609d57a7b98dd90b07e6"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "c3e1837850c9410bd8301583a0771e2ec0fc5f485d3bd74b57a9cf1967c6a0d6"
 metafile = true
 
 [[files]]
@@ -292,6 +307,11 @@ hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "86bae3074a9c0dc11cda02d693add627fceab9579eb1c9a2e0b4f8035001cf1f"
+metafile = true
+
+[[files]]
 file = "mods/pylons-1.21.1-5.3.0.jar"
 hash = "0cd1602c98096e3d2f4ecfcf5de5df015fbd13755d32693211ebeec51c89e704"
 
@@ -334,6 +354,11 @@ hash = "97467c0d62a6d4d454e890510dde4eb6d71293ad99b6eb60ef0d47f91e7cc1e4"
 [[files]]
 file = "mods/sophisticatedstoragecreateintegration-1.21.1-0.1.13.54.jar"
 hash = "dda88201809a4a5b8f6c5291afbc86f1aab2fbdfe7b576d49c48ae594c5b87dd"
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "de4e42a8d1496f13ddd6c54f291e87e0e802c0deb08ef37daf8d2887c8657ee3"
+metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
