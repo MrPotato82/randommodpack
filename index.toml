@@ -243,9 +243,8 @@ file = "mods/jei-1.21.1-neoforge-19.27.0.335.jar"
 hash = "e28b15e1a806d2dc5d267f7662f335c508054ed610fe2766ffb09f27ea463fba"
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "e8c20c0c77e5df58d1386d8190ee16a957d78d62d361469db0b0c29458bf1e84"
-metafile = true
+file = "mods/kubejs-neoforge-2101.7.2-build.348 (1).jar"
+hash = "a38abde5dc80f9d94c9b944b17c82a9eaafbe168c87b4f419e5771ceeaaa2007"
 
 [[files]]
 file = "mods/matc-1.7.1.jar"
