@@ -243,6 +243,16 @@ file = "mods/jei-1.21.1-neoforge-19.27.0.335.jar"
 hash = "e28b15e1a806d2dc5d267f7662f335c508054ed610fe2766ffb09f27ea463fba"
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-mekanism.pw.toml"
+hash = "828f12a754a929bf2e955cf9d0acca4cbe305f172e94c556fe9b0704bcaff7e0"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-neoforge-2101.7.2-build.348 (1).jar"
 hash = "a38abde5dc80f9d94c9b944b17c82a9eaafbe168c87b4f419e5771ceeaaa2007"
 
